@@ -11,7 +11,12 @@ ModelImporter:
     2300000: garbage_bag
     3300000: garbage_bag
     4300000: garbage_bag
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garbage_bagMat
+    second: {fileID: 2100000, guid: 265c07b308af35947aa7eed646c9cc68, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
